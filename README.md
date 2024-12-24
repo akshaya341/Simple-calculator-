@@ -74,3 +74,8 @@ The result is: 15.0
 
 If you would like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request.
 
+
+## screen shot
+![Screenshot 2024-12-24 100821](https://github.com/user-attachments/assets/3c3c38fc-cec6-43bd-bc55-99ed86a2c089)
+
+
